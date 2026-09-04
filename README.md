@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nithya32005/LeetcodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/Nithya32005/LeetcodeSolution/tree/master/0287-find-the-duplicate-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nithya32005/LeetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nithya32005/LeetcodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/Nithya32005/LeetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
