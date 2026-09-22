@@ -37,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nithya32005/LeetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nithya32005/LeetcodeSolution/tree/master/3876-construct-uniform-parity-array-ii) |
+## Design
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Nithya32005/LeetcodeSolution/tree/master/1603-design-parking-system) |
+## Simulation
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Nithya32005/LeetcodeSolution/tree/master/1603-design-parking-system) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/Nithya32005/LeetcodeSolution/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
