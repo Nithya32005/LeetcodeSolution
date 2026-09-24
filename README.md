@@ -32,9 +32,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nithya32005/LeetcodeSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Nithya32005/LeetcodeSolution/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Nithya32005/LeetcodeSolution/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Nithya32005/LeetcodeSolution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Nithya32005/LeetcodeSolution/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Design
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1603-design-parking-system](https://github.com/Nithya32005/LeetcodeSolution/tree/master/1603-design-parking-system) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nithya32005/LeetcodeSolution/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Nithya32005/LeetcodeSolution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
